@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://bozer666.github.io/"/>
-  <updated>2020-02-28T12:32:23.218Z</updated>
+  <updated>2020-03-05T05:43:47.618Z</updated>
   <id>https://bozer666.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>node-sass安装失败怎么解决</title>
+    <link href="https://bozer666.github.io/2020/03/05/node/node-sass%E5%AE%89%E8%A3%85%E5%A4%B1%E8%B4%A5%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3/"/>
+    <id>https://bozer666.github.io/2020/03/05/node/node-sass%E5%AE%89%E8%A3%85%E5%A4%B1%E8%B4%A5%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3/</id>
+    <published>2020-03-05T05:24:54.000Z</published>
+    <updated>2020-03-05T05:43:47.618Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;node-sass安装失败怎么解决&quot;&gt;&lt;a href=&quot;#node-sass安装失败怎么解决&quot; class=&quot;headerlink&quot; title=&quot;node-sass安装失败怎么解决&quot;&gt;&lt;/a&gt;node-sass安装失败怎么解决&lt;/h2&gt;&lt;h3
+        
+      
+    
+    </summary>
+    
+    
+      <category term="node" scheme="https://bozer666.github.io/categories/node/"/>
+    
+    
+      <category term="node,node-sass,vue,react" scheme="https://bozer666.github.io/tags/node-node-sass-vue-react/"/>
+    
+  </entry>
   
   <entry>
     <title>Java线程池之ScheduledThreadPoolExecutor</title>
